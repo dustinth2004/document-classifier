@@ -1,0 +1,8 @@
+Flask
+joblib
+PyPDF2
+python-docx
+scikit-learn
+pytest
+pytest-flask
+pandas
